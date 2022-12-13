@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Noto Sans TC", sans-serif;
+}
+
+footer div p {
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.fz-20{
+  font-size: 20px;
+}
+
+main form div{
+  display: flex;
+  /* justify-content:space-around; */
+  align-items: center;
+  /* text-align: center; */
+  /* flex-direction: column; */
+}
+
+.ml-4{
+  margin-left: 4rem;
+}
